@@ -178,6 +178,7 @@ p {
   background-image: url(../img/girl-01.jpg);
   background-position: top center;
   margin-left: 8px;
+  width: 100%;
 }
 
 .tm-img-container-3 {
